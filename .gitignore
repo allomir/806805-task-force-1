@@ -7,4 +7,4 @@
 *.sublime*
 Thumbs.db
 vendor
-deleted_files
+_files

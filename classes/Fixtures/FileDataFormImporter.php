@@ -75,7 +75,7 @@ class FileDataFormImporter
         $sum = count($this->getFilesList());
         $number = $this->fileNo;
         echo "
-        <form method='GET' action='http://localhost/_tests-m3t2v1-form.php'>
+        <form method='GET' action='http://localhost/_test_csvToSql_form.php'>
         ";
 
         echo "
