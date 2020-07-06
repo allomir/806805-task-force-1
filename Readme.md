@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Михаил Лебедев](https://up.htmlacademy.ru/yii/1/user/806805).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Буторин](https://htmlacademy.ru/profile/id1427121)
 
 ---
 
